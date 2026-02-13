@@ -5,3 +5,4 @@ of the first file that
 comprises the project.more stuff
 userB stuff
 yet more stuff
+UserA has added a new line to this file
